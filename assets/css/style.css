@@ -51,7 +51,7 @@ p {
     display running left to right, will stack vertically if removed */
     margin-left: 25px;
 }
-
+/*this is the background image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -60,12 +60,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* moves it left where used */
+/* moves left where used */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-/* moves it right where used */
+/* moves right where used */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -107,6 +107,7 @@ p {
     background-color: #2589bd;
 }
 
+/* a bit more stylizing, but this time it's for the benefits column*/
 .benefits-section {
     margin-bottom: 32px;
     color: #ffffff;
